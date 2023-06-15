@@ -1,2 +1,2 @@
 # hello-world
-a hello-world guide of using GitHub
+a sample project following the hello-world guide of using GitHub
